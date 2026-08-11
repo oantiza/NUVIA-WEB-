@@ -1,4 +1,4 @@
-# NUVIA Web 2
+# NUVIA PORTAL BASELINE
 
 Proyecto autónomo de la segunda web de NUVIA. Su código de trabajo está exclusivamente en esta carpeta y se publica oficialmente en GitHub Pages. Ningún proceso de este proyecto modifica, sincroniza ni despliega otra versión de NUVIA.
 
